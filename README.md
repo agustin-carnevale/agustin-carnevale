@@ -9,3 +9,7 @@
 
 ## Main focus on: 
 JavaScript, React, Redux, Gatsby, Node, Express, GraphQL, React Native and Flutter, among others.
+
+
+### My resume at:
+https://agustincarnevale.com
