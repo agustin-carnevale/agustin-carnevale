@@ -7,5 +7,5 @@
 - 💬 Ask me about what you need.
 - 📫 How to reach me: agustinc.jobs@gmail.com
 
-##Main focus on: 
+## Main focus on: 
 JavaScript, React, Redux, Gatsby, Node, Express, GraphQL, React Native and Flutter, among others.
