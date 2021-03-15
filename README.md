@@ -1,16 +1,15 @@
 ### Hi there 👋 
 ### I am Agustin from Argentina 🇦🇷 
 
-- 🔭 I’m currently working on Medicall App with Flutter.
-- 🌱 I’m currently learning about Microservices and Microfrontends.
--  I’m looking to collaborate on Flutter, React and Node projects.
-- 🤔 I’m looking for help with WebRTC implementations.
-- 💬 Ask me about what you need.
+- I’m currently learning about Microservices, Microfrontends and Crypto.
+- I’m looking to collaborate on Flutter, React/Node, and Crypto/Fintech projects.
+
 - 📫 How to reach me: agustinc.jobs@gmail.com
 
 ## Main focus on: 
-JavaScript, React, Redux, Gatsby, GraphQL, Node, Express, Typescript and Flutter, among others.
-
+Web: JavaScript, React, Redux, GraphQL, Node, Express, Typescript among others.
+Mobile: Flutter.
+Crypto: Solidity.
 
 ### My resume at:
-https://agustincarnevale.com
+https://agustincarnevale.com (not always up to date)
