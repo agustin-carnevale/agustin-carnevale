@@ -1,7 +1,7 @@
 ### Hi there 👋 
-### I am Agustin from Argentina 🇦🇷 
+### I am Agustin from Buenos Aires, Argentina 🇦🇷 
 
-- I’m currently learning about Microservices, Microfrontends and Crypto.
+- I’m currently learning about Microservices, Microfrontends, Systems Design and Crypto.
 - I’m looking to collaborate on Flutter, React/Node, and Crypto/Fintech projects.
 
 - 📫 How to reach me: agustinc.jobs@gmail.com
