@@ -4,9 +4,10 @@
 I’m looking to collaborate on blockchain projects.
 
 ## Main focus on: 
-Web: JavaScript, React, Redux, Typescript, Node, Express, GraphQL, among others.
+Web: JavaScript, Node, React, Typescript, among others.
 Blockchain: Plutus (Cardano). Solidity.
 Mobile: Flutter.
+Currently learning: Rust.
 
 - 📫 How to reach me: agustinc.jobs@gmail.com
 
