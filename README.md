@@ -10,5 +10,6 @@ I’m looking to collaborate on AI/LLMs, Blockchain or Finance projects.
  - Blockchain: Haskell/Plutus (Cardano). 
  - Systems/low level: Rust.
 
-- 📫 How to reach me: agustinc.jobs@gmail.com
+
+📫 How to reach me: agustinc.jobs@gmail.com
 
